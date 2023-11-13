@@ -1,9 +1,7 @@
 from odf import text, teletype
 from odf.opendocument import load
 
-odt_file_path = '/home/emirali/Documents\
-/EmiraliCaferzade_Belgeler/Code/Projects\
-/update_date_in_cv/emirali_CV_libreOffice_template.odt'
+odt_file_path = 'path-to-your-odt-file'
 
 updated_date = 'Berlin, den 13. November 2023'
 
